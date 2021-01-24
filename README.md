@@ -8,20 +8,20 @@
  1. Customer's Reliability Project
  Topic: data processing
  Task: to figure out whether the marital status and the number of the client's children affect the fact that the loan is repaid on time
- Tools: Python + Pandas library, Jupiter Notebook
+ Tools: Python + Pandas library; Jupiter Notebook
  Results: was made a picture of the most reliable borrower for the loans
  
  2. Real Estate Market Project
- Topic: 
+ Topic: exploratory data analysis
  Task: 
- Tools: 
+ Tools: Python + Pandas library, Jupiter Notebook
  Results: 
  
  
  3. Telecom Project
  Topic:
  Task: 
- Tools: 
+ Tools: Python + Pandas library; Jupiter Notebook
  Results: 
  
  
@@ -33,9 +33,9 @@
  
  
  5. Airline Project 
- Topic: 
+ Topic: Data Storage
  Task: 
- Tools: 
+ Tools: Python + Pandas, Requests, BeautifulSoup libraries; Jupiter Notebook; PostgreSQL
  Results: 
  
  
