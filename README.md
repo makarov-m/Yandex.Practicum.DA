@@ -13,30 +13,29 @@
  
  2. Real Estate Market Project
  Topic: exploratory data analysis
- Task: 
+ Task: figure out whether the marital status and the number of the client's children affect the fact that the loan is repaid on time
  Tools: Python + Pandas library, Jupiter Notebook
- Results: 
- 
+ Results: descriptive client model will be used in the building a credit scoring model  
  
  3. Telecom Project
- Topic:
- Task: 
- Tools: Python + Pandas library; Jupiter Notebook
- Results: 
+ Topic: statistical data analysis
+ Task: determine the promising tariff for a mobile operator
+ Tools: Python + Pandas & Matplotlib libraries, Jupiter Notebook
+ Results: were tested several hypothesis (T-Test); deficiencies in tariffs were found, and made recommendations for their improvement 
  
  
  4. Game Project
- Topic:
- Task: 
- Tools: 
- Results: 
+ Topic: mix
+ Task: identify patterns that determine the success of the game
+ Tools: Python + Pandas & Matplotlib libraries, Jupiter Notebook
+ Results: were tested several hypothesis (T-Test); conclusions were prepared which game directions should be developed in the near future
  
  
  5. Airline Project 
  Topic: Data Storage
- Task: 
- Tools: Python + Pandas, Requests, BeautifulSoup libraries; Jupiter Notebook; PostgreSQL
- Results: 
+ Task: understand the preferences of users who buy tickets to certain destinations
+ Tools: Python + Pandas & BeautifulSoup libraries; JSON Requests; Jupiter Notebook; PostgreSQL
+ Results: the demand of passengers for air tickets was analyzed, preferences were found
  
  
  6. Afisha Project 
