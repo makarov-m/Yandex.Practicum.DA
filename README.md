@@ -5,10 +5,10 @@
 ## Structure:
 
 **[12. Game Project (Final)](12.%20Game%20Project%20(Final)/README.md)** <br />
-Topic: EDA, A/B testing, hypotheses testing, dashboards creation,<br />
-Task: perform a monetization model for a game app<br />
-Tools: Python + libraries, SQL, Tableau<br />
-Results: various scenarios were created for a marketing campaign<br />
+**Topic:** EDA, A/B testing, hypotheses testing, dashboards creation,<br />
+**Task:** perform a monetization model for a game app<br />
+**Tools:** Python + libraries, SQL, Tableau<br />
+**Results:** various scenarios were created for a marketing campaign<br />
 
 **11. Fitness Project**<br />
 Topic: predictions, ML<br />
