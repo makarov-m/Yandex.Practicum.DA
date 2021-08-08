@@ -10,5 +10,9 @@ For a fitness center, we can assume that a customer is in a churn if they have n
 
 To combat churn, the customer service department of the "Bodybuilder-Datascientist" has converted many client profiles into electronic form. The task is to analyze and prepare an action plan for customer retention.
 
+[link to project in EN](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/12.%20Game%20Project%20%28Final%29/Game_Project_EN.ipynb)
+
+[link to project in RU](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/11.%20Fitness%20Project/Fitness_Project_RU.ipynb)
+
 
 
