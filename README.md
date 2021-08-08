@@ -10,7 +10,7 @@
 **Tools:** Python + libraries, SQL, Tableau<br />
 **Results:** various scenarios were created for a marketing campaign<br />
 
-**11. Fitness Project**<br />
+**[11. Fitness Project](/11.%20Fitness%20Project/README.md)** <br />
 Topic: predictions, ML<br />
 Task: reduce customer churn<br />
 Tools: Python + Pandas, Numpy, Scipy, Sklearn libraries; Jupiter Notebook<br />
