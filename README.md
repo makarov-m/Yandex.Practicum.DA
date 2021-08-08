@@ -1,5 +1,5 @@
 # Yandex.Practicum
- Here I added projects which have been made by me during my apprenticeship in Yandex.Practicum. 
+ Here I added 12 projects which have been made by me during my apprenticeship in Yandex.Practicum. 
  Link for the platform https://praktikum.yandex.ru/data-analyst/
 
 ## Structure:
