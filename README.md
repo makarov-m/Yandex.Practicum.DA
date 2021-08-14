@@ -22,7 +22,7 @@ Task: create a dashboard according to specification<br />
 Tools: Tableau, Python, SQL <br />
 Results: Tableau Dashboard<br />
 
-**9. Mobile App Project**<br />
+**[9. Mobile App Project](/9.%20Mobile%20App%20Project/README.md)** <br />
 Topic: mixed<br />
 Task: build a sales funnel, study customer behaviour, explore the results of an A/A/B tests<br />
 Tools: Python + Pandas, Numpy, Scipy & Matplotlib, Seaborn, Plotly libraries; Jupiter Notebook;<br />
