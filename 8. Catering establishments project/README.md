@@ -1,4 +1,4 @@
-# 🍔 Mobile App - Needed to figure out how the users are behaving
+# 🍽️ Catering - Needed to make market analysis, find the place where is better to open a new cafe
 
 ### Main questions from the users:
 

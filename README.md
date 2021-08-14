@@ -28,11 +28,11 @@
 **Tools:** Python + Pandas, Numpy, Scipy & Matplotlib, Seaborn, Plotly libraries; Jupiter Notebook;<br />
 **Results:** were tested 16 hypotheses (Z-Test); A/B test showed that changes in the interface did not give significant results for users; were given recommendations for App improvement.<br />
 
-**8. Catering establishments project**<br />
-Topic: data visualisation<br />
-Task: market analysis<br />
-Tools: Python + Pandas, Numpy, Scipy & Matplotlib, Seaborn, Plotly libraries; Jupiter Notebook; API; JSON Requests;<br />
-Results: were made recommendations for the new restaurant development.<br />
+**[8. Catering establishments project](/8.%20Catering%20establishments%20project/README.md)** <br />
+**Topic:** data visualisation<br />
+**Task:** market analysis<br />
+**Tools:** Python + Pandas, Numpy, Scipy & Matplotlib, Seaborn, Plotly libraries; Jupiter Notebook; API; JSON Requests;<br />
+**Results:** were made recommendations for the new restaurant development.<br />
 
 **7. E-commerce Project**<br />
 Topic: A/B testing<br />
