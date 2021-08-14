@@ -11,4 +11,5 @@
 ### Result:
 
 [link to project in EN](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/9.%20Mobile%20App%20Project/Mobile_App_Project_EN.ipynb)
+
 [link to project in RU](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/9.%20Mobile%20App%20Project/Mobile_App_Project_RU.ipynb)
