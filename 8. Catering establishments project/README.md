@@ -2,14 +2,10 @@
 
 ### Main questions from the users:
 
-- Explore the sales funnel. Find out how users arrive at a purchase. 
-- How many users make it to the purchase, and how many get stuck in the previous steps? Which ones?
-
-- Examine the results of the A / A / B experiment: 
-> The designers wanted to change the fonts throughout the application, and the managers were afraid that the users would be unusual. We agreed to make a decision based on the results of the A / A / B test. The users were divided into 3 groups: 2 control groups with old fonts and one experimental group with new ones. Find out which font is best.
+Youк company have decided to open a small cafe in Moscow. It is original - the guests must be served by robots. The project is promising, but expensive. Together with your partners, you decided to contact investors. They are interested in the current state of affairs in the market - can you gain popularity for a long time, when all onlookers have seen enough of robotic waiters? The task is to prepare a market research. You have open data on catering establishments in Moscow.
 
 ### Result:
 
-[link to project in EN](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/9.%20Mobile%20App%20Project/Mobile_App_Project_EN.ipynb)
+[link to project in EN](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/8.%20Catering%20establishments%20project/Catering_establishments_project_EN.ipynb)
 
-[link to project in RU](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/9.%20Mobile%20App%20Project/Mobile_App_Project_RU.ipynb)
+[link to project in RU](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/8.%20Catering%20establishments%20project/Catering_establishments_project_RU.ipynb)
