@@ -19,7 +19,7 @@ Results: were found patterns for client's churn, recommendations for churn elimi
 **[10. News Project](/10.%20News%20Project/README.md)** <br />
 Topic: dashboards creation<br />
 Task: create a dashboard according to specification<br />
-Tools: Tableau<br />
+Tools: Tableau, Python, SQL <br />
 Results: Tableau Dashboard<br />
 
 **9. Mobile App Project**<br />
