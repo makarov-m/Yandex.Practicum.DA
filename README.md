@@ -2,7 +2,7 @@
  Here I added 12 projects which have been made by me during my apprenticeship in Yandex.Practicum. 
  Link for the platform https://praktikum.yandex.ru/data-analyst/
 
-## Structure:
+## Table of content:
 
 **[12. Game Project (Final)](12.%20Game%20Project%20(Final)/README.md)** <br />
 **Topic:** EDA, A/B testing, hypotheses testing, dashboards creation,<br />
