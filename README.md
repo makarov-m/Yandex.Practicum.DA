@@ -11,22 +11,22 @@
 **Results:** various scenarios were created for a marketing campaign<br />
 
 **[11. Fitness Project](/11.%20Fitness%20Project/README.md)** <br />
-Topic: predictions, ML<br />
-Task: reduce customer churn<br />
-Tools: Python + Pandas, Numpy, Scipy, Sklearn libraries; Jupiter Notebook<br />
-Results: were found patterns for client's churn, recommendations for churn eliminations were made.<br />
+**Topic:** predictions, ML<br />
+**Task:** reduce customer churn<br />
+**Tools:** Python + Pandas, Numpy, Scipy, Sklearn libraries; Jupiter Notebook<br />
+**Results:** were found patterns for client's churn, recommendations for churn eliminations were made.<br />
 
 **[10. News Project](/10.%20News%20Project/README.md)** <br />
-Topic: dashboards creation<br />
-Task: create a dashboard according to specification<br />
-Tools: Tableau, Python, SQL <br />
-Results: Tableau Dashboard<br />
+**Topic:** dashboards creation<br />
+**Task:** create a dashboard according to specification<br />
+**Tools:** Tableau, Python, SQL <br />
+**Results:** Tableau Dashboard<br />
 
 **[9. Mobile App Project](/9.%20Mobile%20App%20Project/README.md)** <br />
-Topic: mixed<br />
-Task: build a sales funnel, study customer behaviour, explore the results of an A/A/B tests<br />
-Tools: Python + Pandas, Numpy, Scipy & Matplotlib, Seaborn, Plotly libraries; Jupiter Notebook;<br />
-Results: were tested 16 hypotheses (Z-Test); A/B test showed that changes in the interface did not give significant results for users; were given recommendations for App improvement.<br />
+**Topic:** mixed<br />
+**Task:** build a sales funnel, study customer behaviour, explore the results of an A/A/B tests<br />
+**Tools:** Python + Pandas, Numpy, Scipy & Matplotlib, Seaborn, Plotly libraries; Jupiter Notebook;<br />
+**Results:** were tested 16 hypotheses (Z-Test); A/B test showed that changes in the interface did not give significant results for users; were given recommendations for App improvement.<br />
 
 **8. Catering establishments project**<br />
 Topic: data visualisation<br />
