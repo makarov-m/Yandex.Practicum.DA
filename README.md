@@ -16,7 +16,7 @@ Task: reduce customer churn<br />
 Tools: Python + Pandas, Numpy, Scipy, Sklearn libraries; Jupiter Notebook<br />
 Results: were found patterns for client's churn, recommendations for churn eliminations were made.<br />
 
-**[10. News Project](//10.%20News%20Project/README.md)** <br />
+**[10. News Project](/10.%20News%20Project/README.md)** <br />
 Topic: dashboards creation<br />
 Task: create a dashboard according to specification<br />
 Tools: Tableau<br />
