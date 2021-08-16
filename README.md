@@ -34,11 +34,11 @@
 **Tools:** Python + Pandas, Numpy, Scipy & Matplotlib, Seaborn, Plotly libraries; Jupiter Notebook; API; JSON Requests;<br />
 **Results:** were made recommendations for the new restaurant development.<br />
 
-**7. E-commerce Project**<br />
-Topic: A/B testing<br />
-Task: launch A/B test and prioritize hypotheses<br />
-Tools: Python + Pandas, Numpy, Scipy & Matplotlib, Seaborn libraries; Jupiter Notebook<br />
-Results: were tested several hypotheses (U-Test); the test was declared as invalid.<br />
+**[7. E-commerce Project](/7.%20E-commerce%20Project/README.md)** <br />
+**Topic:** A/B testing<br />
+**Task:** launch A/B test and prioritize hypotheses<br />
+**Tools:** Python + Pandas, Numpy, Scipy & Matplotlib, Seaborn libraries; Jupiter Notebook<br />
+**Results:** were tested several hypotheses (U-Test); the test was declared as invalid.<br />
 
 **6. Afisha Project**<br />
 Topic: business performance analysis, cohort analysis, user metrics<br />
