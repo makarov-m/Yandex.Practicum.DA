@@ -6,6 +6,6 @@ Your company have decided to open a small cafe in Moscow. It is original - the g
 
 ### Result:
 
-[link to project in EN](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/8.%20Catering%20establishments%20project/Catering_establishments_project_EN.ipynb)
+[link to project in EN](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/7.%20E-commerce%20Project/E-commerce_Project_EN.ipynb)
 
-[link to project in RU](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/8.%20Catering%20establishments%20project/Catering_establishments_project_RU.ipynb)
+[link to project in RU](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/7.%20E-commerce%20Project/E-commerce_Project_RU.ipynb)
