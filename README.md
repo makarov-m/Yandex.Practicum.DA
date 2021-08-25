@@ -64,7 +64,7 @@ Task: determine the promising tariff for a mobile operator<br />
 Tools: Python + Pandas & Matplotlib libraries, Jupiter Notebook<br />
 Results: were tested several hypothesis (T-Test); deficiencies in tariffs were found, and made recommendations for their improvement<br />
 
-**2. Real Estate Market Project**<br />
+**[2. Real Estate Market Project](/2.%20Real%20Estate%20Market%20Project/README.md)** <br />
 Topic: exploratory data analysis<br />
 Task: figure out whether the marital status and the number of the client's children affect the fact that the loan is repaid on time<br />
 Tools: Python + Pandas library, Jupiter Notebook<br />
