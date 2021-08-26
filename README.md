@@ -40,11 +40,11 @@
 **Tools:** Python + Pandas, Numpy, Scipy & Matplotlib, Seaborn libraries; Jupiter Notebook<br />
 **Results:** were tested several hypotheses (U-Test); the test was declared as invalid.<br />
 
-**6. Afisha Project**<br />
-Topic: business performance analysis, cohort analysis, user metrics<br />
-Task: reduce costs by eliminating unprofitable traffic sources and reallocating budget<br />
-Tools: Python + Pandas, Numpy & Matplotlib, Seaborn libraries; Jupiter Notebook<br />
-Results: user metrics for the product were calculated; the best channels for attracting traffic were determined.<br />
+**[6. Afisha Project](/6.%20Afisha%20Project/README.md)** <br />
+**Topic:** business performance analysis, cohort analysis, user metrics<br />
+**Task:** reduce costs by eliminating unprofitable traffic sources and reallocating budget<br />
+**Tools:** Python + Pandas, Numpy & Matplotlib, Seaborn libraries; Jupiter Notebook<br />
+**Results:** user metrics for the product were calculated; the best channels for attracting traffic were determined.<br />
 
 **[5. Airline Project](/5.%20Airline%20Project/README.md)** <br />
 **Topic:** Data Storage<br />
