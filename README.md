@@ -58,7 +58,7 @@ Task: identify patterns that determine the success of the game<br />
 Tools: Python + Pandas & Matplotlib libraries, Jupiter Notebook<br />
 Results: were tested several hypothesis (T-Test); conclusions were prepared which game directions should be developed in the near future<br />
 
-**3. Telecom Project**<br />
+**[3. Telecom Project](/3.%20Telecom%20Project/README.md)** <br />
 Topic: statistical data analysis<br />
 Task: determine the promising tariff for a mobile operator<br />
 Tools: Python + Pandas & Matplotlib libraries, Jupiter Notebook<br />
