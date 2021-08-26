@@ -52,11 +52,11 @@ Task: understand the preferences of users who buy tickets to certain destination
 Tools: Python + Pandas, Matplotlib & BeautifulSoup libraries; JSON Requests; Jupiter Notebook; PostgreSQL<br />
 Results: the demand of passengers for air tickets was analyzed, the client's preferences were found.<br />
 
-**4. Game Project**<br />
-Topic: mixed<br />
-Task: identify patterns that determine the success of the game<br />
-Tools: Python + Pandas & Matplotlib libraries, Jupiter Notebook<br />
-Results: were tested several hypothesis (T-Test); conclusions were prepared which game directions should be developed in the near future<br />
+**[4. Game Project](/4.%20Game%20Project/README.md)** <br />
+**Topic:** mixed<br />
+**Task:** identify patterns that determine the success of the game<br />
+**Tools:** Python + Pandas & Matplotlib libraries, Jupiter Notebook<br />
+**Results:** were tested several hypothesis (T-Test); conclusions were prepared which game directions should be developed in the near future<br />
 
 **[3. Telecom Project](/3.%20Telecom%20Project/README.md)** <br />
 **Topic:** statistical data analysis<br />
