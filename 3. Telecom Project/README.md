@@ -1,11 +1,11 @@
-# 🏘️ Real Estate - exploratory data analysis
+# 📱 Telecom - statistical data analysis
 
 ### Description:
 
-We have at our disposal the data of the Yandex.Real estate service - an archive of advertisements for the sale of apartments in St. Petersburg and neighboring settlements for several years. It is necessary to determine the market value of real estate and set the parameters affecting its value.
+There is a data of the company Megaline - the federal cellular operator. Customers are offered two tariff plans: Smart and Ultra. In order to adjust the advertising budget, the commercial department wants to understand which tariff brings the most money. A preliminary analysis of tariffs for a small sample of customers is needed to be done. The data of 500 Megaline users at our disposal: who they are, where they are from, what tariff they use, how many calls and messages each sent in 2018. It is necessary to analyze customer behavior and draw a conclusion - which tariff is better.
 
 ### Result:
 
-[link to project in EN](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/2.%20Real%20Estate%20Market%20Project/Estate_Project_en.ipynb)
+[link to project in EN](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/3.%20Telecom%20Project/Telecom_Project_en.ipynb)
 
-[link to project in RU](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/2.%20Real%20Estate%20Market%20Project/Estate_Project_ru.ipynb)
+[link to project in RU](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/3.%20Telecom%20Project/Telecom_Project_ru.ipynb)
