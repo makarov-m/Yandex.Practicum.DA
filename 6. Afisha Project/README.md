@@ -12,4 +12,4 @@ You were invited for an internship at the Analytics Department of Yandex.Afisha.
 
 [link to project in EN](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/6.%20Afisha%20Project/Afisha_Project_en.ipynb)
 
-[link to project in RU](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/5.%20Airline%20Project/Airline_Project_ru.ipynb)
+[link to project in RU](https://nbviewer.jupyter.org/github/MakarovMcom/Yandex.Practicum/blob/main/6.%20Afisha%20Project/Afisha_Project_ru.ipynb)
