@@ -59,16 +59,16 @@ Tools: Python + Pandas & Matplotlib libraries, Jupiter Notebook<br />
 Results: were tested several hypothesis (T-Test); conclusions were prepared which game directions should be developed in the near future<br />
 
 **[3. Telecom Project](/3.%20Telecom%20Project/README.md)** <br />
-Topic: statistical data analysis<br />
-Task: determine the promising tariff for a mobile operator<br />
-Tools: Python + Pandas & Matplotlib libraries, Jupiter Notebook<br />
-Results: were tested several hypothesis (T-Test); deficiencies in tariffs were found, and made recommendations for their improvement<br />
+**Topic:** statistical data analysis<br />
+**Task:** determine the promising tariff for a mobile operator<br />
+**Tools:** Python + Pandas & Matplotlib libraries, Jupiter Notebook<br />
+**Results:** were tested several hypothesis (T-Test); deficiencies in tariffs were found, and made recommendations for their improvement<br />
 
 **[2. Real Estate Market Project](/2.%20Real%20Estate%20Market%20Project/README.md)** <br />
-Topic: exploratory data analysis<br />
-Task: figure out whether the marital status and the number of the client's children affect the fact that the loan is repaid on time<br />
-Tools: Python + Pandas library, Jupiter Notebook<br />
-Results: descriptive client model will be used in the building a credit scoring model<br />
+**Topic:** exploratory data analysis<br />
+**Task:** figure out whether the marital status and the number of the client's children affect the fact that the loan is repaid on time<br />
+**Tools:** Python + Pandas library, Jupiter Notebook<br />
+**Results:** descriptive client model will be used in the building a credit scoring model<br />
 
 **1. Customer's Reliability Project**<br />
 Topic: data processing<br />
