@@ -46,11 +46,11 @@ Task: reduce costs by eliminating unprofitable traffic sources and reallocating 
 Tools: Python + Pandas, Numpy & Matplotlib, Seaborn libraries; Jupiter Notebook<br />
 Results: user metrics for the product were calculated; the best channels for attracting traffic were determined.<br />
 
-**5. Airline Project**<br />
-Topic: Data Storage<br />
-Task: understand the preferences of users who buy tickets to certain destinations<br />
-Tools: Python + Pandas, Matplotlib & BeautifulSoup libraries; JSON Requests; Jupiter Notebook; PostgreSQL<br />
-Results: the demand of passengers for air tickets was analyzed, the client's preferences were found.<br />
+**[5. Airline Project](/5.%20Airline%20Project/README.md)** <br />
+**Topic:** Data Storage<br />
+**Task:** understand the preferences of users who buy tickets to certain destinations<br />
+**Tools:** Python + Pandas, Matplotlib & BeautifulSoup libraries; JSON Requests; Jupiter Notebook; PostgreSQL<br />
+**Results:** the demand of passengers for air tickets was analyzed, the client's preferences were found.<br />
 
 **[4. Game Project](/4.%20Game%20Project/README.md)** <br />
 **Topic:** mixed<br />
